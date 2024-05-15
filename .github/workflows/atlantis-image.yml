@@ -12,6 +12,7 @@ on:
     branches:
       - 'main'
       - 'release-**'
+      - 'f/henriklundstrom/fix-required-checks-minus-apply'
     types:
       - opened
       - reopened
